@@ -11,6 +11,6 @@ This work builds upon work of Abhijit Dasgupta, Gil Tomas, Dieter Menne (https:/
 * drawing of cumulative incidence plots
 * the handling of colors
 * updated code to use dplyr instead of plyr
-* changes the theme of the plot
+* changed the theme of the plot
 * some additional customization options to the axes
 
